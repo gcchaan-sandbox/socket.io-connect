@@ -1,0 +1,2 @@
+- `node ./index.js`
+- `npx wscat -c localhost:3000/socket.io/\?transport=websocket`
